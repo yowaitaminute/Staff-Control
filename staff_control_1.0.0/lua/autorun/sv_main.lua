@@ -81,8 +81,8 @@ hook.Add('PlayerInitialSpawn', 'StaffControl_Hook3', function(p)
 end)
 
 print([[
-    ===============================
-    ===== Staff Control Loaded ====
-    ====== Created By Lukas =======
-    ===============================
+    ================================
+    ===== Staff Control Loaded =====
+    ====== Created By Minute =======
+    ================================
 ]])
