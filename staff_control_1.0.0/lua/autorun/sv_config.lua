@@ -10,7 +10,7 @@ StaffControl.Config.Staff = {"admin"} -- (staff usergroups)
 -- /staffreset to reset user's password /staffreset steamid64
 StaffControl.Config.Management = {""} -- management (they can reset users passwords etc)
 
-StaffControl.Config.ChatMessages = {""} -- (chat commands they can use to go on duty)
+StaffControl.Config.ChatMessages = {"/staff", "!staff", "/duty", "!duty"} -- (chat commands they can use to go on duty)
 
 StaffControl.Config.Model = "" -- (model to set user once on duty)
 
